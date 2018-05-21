@@ -1,0 +1,1081 @@
+2016-12-11 07:31:54,870 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 07:31:54,871 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:31:54,872 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:31:54,872 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 07:31:54,872 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:31:54,872 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:31:54,874 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 07:31:54,874 INFO  [Log] Opening Browser 
+2016-12-11 07:32:07,668 INFO  [Log] Closing the browser 
+2016-12-11 07:32:08,203 ERROR [Log] Not able to Close the Browser --- Process refused to die after 10 seconds, and couldn't taskkill it: Unable to find executable for: taskkill 
+2016-12-11 07:32:08,496 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 07:32:08,497 INFO  [Log] X 
+2016-12-11 07:32:08,497 INFO  [Log] X 
+2016-12-11 07:32:08,497 INFO  [Log] X 
+2016-12-11 07:32:08,497 INFO  [Log] X 
+2016-12-11 07:35:37,240 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 07:35:37,240 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:35:37,240 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:35:37,240 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 07:35:37,240 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:35:37,240 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:35:37,255 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 07:35:37,255 INFO  [Log] Opening Browser 
+2016-12-11 07:35:50,069 INFO  [Log] Closing the browser 
+2016-12-11 07:35:50,989 ERROR [Log] Not able to Close the Browser --- Process refused to die after 10 seconds, and couldn't taskkill it: Unable to find executable for: taskkill 
+2016-12-11 07:35:52,109 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 07:35:52,109 INFO  [Log] X 
+2016-12-11 07:35:52,118 INFO  [Log] X 
+2016-12-11 07:35:52,118 INFO  [Log] X 
+2016-12-11 07:35:52,120 INFO  [Log] X 
+2016-12-11 07:39:25,582 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 07:39:25,582 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:39:25,582 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:39:25,582 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 07:39:25,582 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:39:25,582 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:39:25,582 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 07:39:25,582 INFO  [Log] Opening Browser 
+2016-12-11 07:40:03,612 INFO  [Log] Closing the browser 
+2016-12-11 07:40:04,079 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 07:40:04,079 INFO  [Log] X 
+2016-12-11 07:40:04,079 INFO  [Log] X 
+2016-12-11 07:40:04,079 INFO  [Log] X 
+2016-12-11 07:40:04,079 INFO  [Log] X 
+2016-12-11 07:45:00,343 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 07:45:00,343 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:45:00,343 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:45:00,343 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 07:45:00,343 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:45:00,343 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:45:00,343 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 07:45:00,343 INFO  [Log] Opening Browser 
+2016-12-11 07:45:38,037 INFO  [Log] Closing the browser 
+2016-12-11 07:45:38,453 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 07:45:38,453 INFO  [Log] X 
+2016-12-11 07:45:38,453 INFO  [Log] X 
+2016-12-11 07:45:38,453 INFO  [Log] X 
+2016-12-11 07:45:38,454 INFO  [Log] X 
+2016-12-11 07:51:22,782 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 07:51:22,782 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:51:22,782 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:51:22,782 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 07:51:22,782 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:51:22,782 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:51:22,782 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 07:51:22,782 INFO  [Log] Opening Browser 
+2016-12-11 07:52:08,677 INFO  [Log] Closing the browser 
+2016-12-11 07:52:08,909 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 07:52:08,909 INFO  [Log] X 
+2016-12-11 07:52:08,911 INFO  [Log] X 
+2016-12-11 07:52:08,912 INFO  [Log] X 
+2016-12-11 07:52:08,912 INFO  [Log] X 
+2016-12-11 07:53:17,150 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 07:53:17,150 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:53:17,150 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:53:17,150 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 07:53:17,150 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:53:17,150 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:53:17,150 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 07:53:17,150 INFO  [Log] Opening Browser 
+2016-12-11 07:53:51,279 INFO  [Log] Closing the browser 
+2016-12-11 07:53:51,773 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 07:53:51,773 INFO  [Log] X 
+2016-12-11 07:53:51,773 INFO  [Log] X 
+2016-12-11 07:53:51,773 INFO  [Log] X 
+2016-12-11 07:53:51,773 INFO  [Log] X 
+2016-12-11 07:56:01,111 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 07:56:01,111 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:56:01,111 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:56:01,111 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 07:56:01,111 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:56:01,111 INFO  [Log] **************************************************************************************** 
+2016-12-11 07:56:01,111 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 07:56:01,111 INFO  [Log] Opening Browser 
+2016-12-11 07:56:34,713 INFO  [Log] Closing the browser 
+2016-12-11 07:56:35,134 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 07:56:35,134 INFO  [Log] X 
+2016-12-11 07:56:35,134 INFO  [Log] X 
+2016-12-11 07:56:35,135 INFO  [Log] X 
+2016-12-11 07:56:35,135 INFO  [Log] X 
+2016-12-11 08:07:13,786 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 08:07:13,802 INFO  [Log] **************************************************************************************** 
+2016-12-11 08:07:13,802 INFO  [Log] **************************************************************************************** 
+2016-12-11 08:07:13,802 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 08:07:13,802 INFO  [Log] **************************************************************************************** 
+2016-12-11 08:07:13,802 INFO  [Log] **************************************************************************************** 
+2016-12-11 08:07:13,802 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 08:07:13,802 INFO  [Log] Opening Browser 
+2016-12-11 08:08:01,952 INFO  [Log] Closing the browser 
+2016-12-11 08:08:02,452 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 08:08:02,452 INFO  [Log] X 
+2016-12-11 08:08:02,452 INFO  [Log] X 
+2016-12-11 08:08:02,452 INFO  [Log] X 
+2016-12-11 08:08:02,452 INFO  [Log] X 
+2016-12-11 08:28:03,825 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 08:28:03,825 INFO  [Log] **************************************************************************************** 
+2016-12-11 08:28:03,825 INFO  [Log] **************************************************************************************** 
+2016-12-11 08:28:03,825 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 08:28:03,825 INFO  [Log] **************************************************************************************** 
+2016-12-11 08:28:03,825 INFO  [Log] **************************************************************************************** 
+2016-12-11 08:28:03,825 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 08:28:03,825 INFO  [Log] Opening Browser 
+2016-12-11 08:28:57,152 INFO  [Log] Closing the browser 
+2016-12-11 08:28:57,738 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 08:28:57,738 INFO  [Log] X 
+2016-12-11 08:28:57,738 INFO  [Log] X 
+2016-12-11 08:28:57,739 INFO  [Log] X 
+2016-12-11 08:28:57,739 INFO  [Log] X 
+2016-12-11 08:29:39,441 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 08:29:39,441 INFO  [Log] **************************************************************************************** 
+2016-12-11 08:29:39,441 INFO  [Log] **************************************************************************************** 
+2016-12-11 08:29:39,441 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 08:29:39,441 INFO  [Log] **************************************************************************************** 
+2016-12-11 08:29:39,441 INFO  [Log] **************************************************************************************** 
+2016-12-11 08:29:39,441 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 08:29:39,441 INFO  [Log] Opening Browser 
+2016-12-11 08:30:07,227 INFO  [Log] Closing the browser 
+2016-12-11 08:30:07,711 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 08:30:07,711 INFO  [Log] X 
+2016-12-11 08:30:07,711 INFO  [Log] X 
+2016-12-11 08:30:07,711 INFO  [Log] X 
+2016-12-11 08:30:07,711 INFO  [Log] X 
+2016-12-11 08:32:12,614 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 08:32:12,614 INFO  [Log] **************************************************************************************** 
+2016-12-11 08:32:12,614 INFO  [Log] **************************************************************************************** 
+2016-12-11 08:32:12,614 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 08:32:12,614 INFO  [Log] **************************************************************************************** 
+2016-12-11 08:32:12,614 INFO  [Log] **************************************************************************************** 
+2016-12-11 08:32:12,614 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 08:32:12,614 INFO  [Log] Opening Browser 
+2016-12-11 08:32:36,971 INFO  [Log] Closing the browser 
+2016-12-11 08:32:37,430 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 08:32:37,430 INFO  [Log] X 
+2016-12-11 08:32:37,430 INFO  [Log] X 
+2016-12-11 08:32:37,430 INFO  [Log] X 
+2016-12-11 08:32:37,430 INFO  [Log] X 
+2016-12-11 09:18:27,648 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 09:18:27,663 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:18:27,663 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:18:27,663 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 09:18:27,663 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:18:27,663 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:18:27,663 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 09:18:27,663 INFO  [Log] Opening Browser 
+2016-12-11 09:19:30,275 INFO  [Log] Closing the browser 
+2016-12-11 09:19:30,804 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 09:19:30,804 INFO  [Log] X 
+2016-12-11 09:19:30,805 INFO  [Log] X 
+2016-12-11 09:19:30,805 INFO  [Log] X 
+2016-12-11 09:19:30,805 INFO  [Log] X 
+2016-12-11 09:22:20,366 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 09:22:20,366 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:22:20,366 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:22:20,366 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 09:22:20,366 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:22:20,366 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:22:20,366 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 09:22:20,366 INFO  [Log] Opening Browser 
+2016-12-11 09:22:48,993 INFO  [Log] Closing the browser 
+2016-12-11 09:22:49,431 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 09:22:49,432 INFO  [Log] X 
+2016-12-11 09:22:49,432 INFO  [Log] X 
+2016-12-11 09:22:49,432 INFO  [Log] X 
+2016-12-11 09:22:49,432 INFO  [Log] X 
+2016-12-11 09:25:05,404 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 09:25:05,404 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:25:05,404 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:25:05,404 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 09:25:05,404 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:25:05,404 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:25:05,420 INFO  [Log] Opening Browser 
+2016-12-11 09:25:23,891 INFO  [Log] Navigating to URL 
+2016-12-11 09:25:47,118 INFO  [Log] Wait for 5 seconds 
+2016-12-11 09:25:57,288 INFO  [Log] Entering the text in Password 
+2016-12-11 09:25:57,288 ERROR [Log] Not able to Enter Password --- null 
+2016-12-11 09:25:57,641 INFO  [Log] Closing the browser 
+2016-12-11 09:25:57,741 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 09:25:57,742 INFO  [Log] X 
+2016-12-11 09:25:57,742 INFO  [Log] X 
+2016-12-11 09:25:57,742 INFO  [Log] X 
+2016-12-11 09:25:57,742 INFO  [Log] X 
+2016-12-11 09:29:39,992 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 09:29:39,992 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:29:39,992 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:29:39,992 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 09:29:39,992 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:29:39,992 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:29:39,992 INFO  [Log] Opening Browser 
+2016-12-11 09:30:01,991 INFO  [Log] Navigating to URL 
+2016-12-11 09:30:44,478 INFO  [Log] Wait for 5 seconds 
+2016-12-11 09:30:54,703 INFO  [Log] Entering the text in Password 
+2016-12-11 09:31:25,004 ERROR [Log] Not able to Enter Password --- Unable to locate element: {"method":"xpath","selector":".//*[@id='pwd']"}
+Command duration or timeout: 30.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.0.108', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 24c9ba71-cc47-4147-9c40-4bb9fe2f3060
+*** Element info: {Using=xpath, value=.//*[@id='pwd']} 
+2016-12-11 09:31:25,160 INFO  [Log] Closing the browser 
+2016-12-11 09:31:25,432 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 09:31:25,432 INFO  [Log] X 
+2016-12-11 09:31:25,432 INFO  [Log] X 
+2016-12-11 09:31:25,432 INFO  [Log] X 
+2016-12-11 09:31:25,432 INFO  [Log] X 
+2016-12-11 09:32:30,848 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 09:32:30,848 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:32:30,848 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:32:30,848 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 09:32:30,848 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:32:30,848 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:32:30,848 INFO  [Log] Opening Browser 
+2016-12-11 09:32:52,465 INFO  [Log] Navigating to URL 
+2016-12-11 09:34:40,442 INFO  [Log] Wait for 5 seconds 
+2016-12-11 09:34:50,927 INFO  [Log] Entering the text in Password 
+2016-12-11 09:34:52,084 INFO  [Log] Wait for 5 seconds 
+2016-12-11 09:35:02,735 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 09:35:02,742 INFO  [Log] X 
+2016-12-11 09:35:02,742 INFO  [Log] X 
+2016-12-11 09:35:02,744 INFO  [Log] X 
+2016-12-11 09:35:02,744 INFO  [Log] X 
+2016-12-11 09:37:23,825 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 09:37:23,826 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:37:23,826 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:37:23,826 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 09:37:23,826 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:37:23,826 INFO  [Log] **************************************************************************************** 
+2016-12-11 09:37:23,827 INFO  [Log] Opening Browser 
+2016-12-11 09:37:46,053 INFO  [Log] Navigating to URL 
+2016-12-11 09:38:13,790 INFO  [Log] Wait for 5 seconds 
+2016-12-11 09:38:24,220 INFO  [Log] Entering the text in Password 
+2016-12-11 09:38:54,532 ERROR [Log] Not able to Enter Password --- Unable to locate element: {"method":"xpath","selector":".//*[@id='pwd']"}
+Command duration or timeout: 30.15 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.0.108', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: cf0a81eb-9f86-4c14-8301-4cd256b7820d
+*** Element info: {Using=xpath, value=.//*[@id='pwd']} 
+2016-12-11 09:38:54,625 INFO  [Log] Closing the browser 
+2016-12-11 09:38:54,922 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 09:38:54,922 INFO  [Log] X 
+2016-12-11 09:38:54,923 INFO  [Log] X 
+2016-12-11 09:38:54,923 INFO  [Log] X 
+2016-12-11 09:38:54,923 INFO  [Log] X 
+2016-12-11 10:07:32,945 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 10:07:32,961 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:07:32,977 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:07:32,977 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 10:07:32,977 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:07:32,977 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:07:32,977 INFO  [Log] Opening Browser 
+2016-12-11 10:08:19,565 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 10:08:19,565 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:08:19,565 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:08:19,565 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 10:08:19,565 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:08:19,565 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:08:19,581 INFO  [Log] Opening Browser 
+2016-12-11 10:08:59,842 INFO  [Log] Not able to open Browser --- Failed to connect to binary FirefoxBinary(C:\Program Files\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+ndUpdates":1,"bootstrap":true,"skinnable":false,"size":3110,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"47.0.2","maxVersion":"47.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"seen":true}
+1481479715825	addons.xpi	DEBUG	getModTime: Recursive scan of websensehelper@mozilla.org
+1481479715826	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"6RuPXVGp1E8k","location":"app-global","version":"47.0.2","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{"32":"icon.png","48":"icon.png"},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1481467192184,"updateDate":1481467192184,"applyBackgroundUpdates":1,"skinnable":true,"size":22012,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"47.0.2","maxVersion":"47.0.2"}],"targetPlatforms":[],"seen":true}
+1481479715827	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1481479715829	DeferredSave.extensions.json	DEBUG	Save changes
+1481479715829	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1481479715830	addons.xpi-utils	DEBUG	Updating add-on states
+1481479715832	addons.xpi-utils	DEBUG	Writing add-ons list
+1481479715860	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1481479715861	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.0
+1481479715862	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1481479715863	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.2
+1481479715865	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1481479715867	addons.xpi	DEBUG	Calling bootstrap method startup on loop@mozilla.org version 1.3.2
+1481479716068	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\websensehelper@mozilla.org.xpi
+1481479716069	addons.xpi	DEBUG	Calling bootstrap method startup on websensehelper@mozilla.org version 1.0
+1481479716079	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1481479716080	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1481479716080	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1481479716080	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1481479716081	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1481479716082	addons.manager	DEBUG	Starting provider: GMPProvider
+1481479716114	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1481479716115	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1481479716115	addons.manager	DEBUG	Starting provider: PluginProvider
+1481479716116	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1481479716117	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1481479716119	addons.manager	DEBUG	Completed startup sequence
+1481479725368	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1481479725369	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1481479725369	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.0.108', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: driver.version: FirefoxDriver 
+2016-12-11 10:09:08,693 INFO  [Log] Closing the browser 
+2016-12-11 10:09:08,693 ERROR [Log] Not able to Close the Browser --- null 
+2016-12-11 10:09:09,182 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 10:09:09,182 INFO  [Log] X 
+2016-12-11 10:09:09,182 INFO  [Log] X 
+2016-12-11 10:09:09,182 INFO  [Log] X 
+2016-12-11 10:09:09,182 INFO  [Log] X 
+2016-12-11 10:10:17,767 INFO  [Log] Navigating to URL 
+2016-12-11 10:10:24,891 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 10:10:24,893 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:10:24,893 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:10:24,893 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 10:10:24,893 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:10:24,894 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:10:24,897 INFO  [Log] Opening Browser 
+2016-12-11 10:10:43,853 INFO  [Log] Wait for 5 seconds 
+2016-12-11 10:10:47,917 INFO  [Log] Navigating to URL 
+2016-12-11 10:10:54,344 INFO  [Log] Entering the text in Password 
+2016-12-11 10:11:24,752 ERROR [Log] Not able to Enter Password --- Unable to locate element: {"method":"xpath","selector":".//*[@id='pwd']"}
+Command duration or timeout: 30.14 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.0.108', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fc380b67-259e-4d57-963a-385d6e7a5adf
+*** Element info: {Using=xpath, value=.//*[@id='pwd']} 
+2016-12-11 10:11:24,893 INFO  [Log] Closing the browser 
+2016-12-11 10:11:25,252 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 10:11:25,252 INFO  [Log] X 
+2016-12-11 10:11:25,252 INFO  [Log] X 
+2016-12-11 10:11:25,252 INFO  [Log] X 
+2016-12-11 10:11:25,252 INFO  [Log] X 
+2016-12-11 10:11:49,557 INFO  [Log] Not able to navigate --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.0.108', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9ab7d8f2-18f0-46bd-b70a-2a677c8ddf01 
+2016-12-11 10:11:49,697 INFO  [Log] Closing the browser 
+2016-12-11 10:11:50,739 ERROR [Log] Not able to Close the Browser --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.0.108', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9ab7d8f2-18f0-46bd-b70a-2a677c8ddf01 
+2016-12-11 10:11:51,173 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 10:11:51,174 INFO  [Log] X 
+2016-12-11 10:11:51,174 INFO  [Log] X 
+2016-12-11 10:11:51,174 INFO  [Log] X 
+2016-12-11 10:11:51,174 INFO  [Log] X 
+2016-12-11 10:14:28,635 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 10:14:28,635 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:14:28,635 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:14:28,635 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 10:14:28,635 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:14:28,635 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:14:28,635 INFO  [Log] Opening Browser 
+2016-12-11 10:14:39,980 INFO  [Log] Navigating to URL 
+2016-12-11 10:15:30,528 INFO  [Log] Wait for 5 seconds 
+2016-12-11 10:15:40,745 INFO  [Log] Entering the text in Password 
+2016-12-11 10:16:10,899 ERROR [Log] Not able to Enter Password --- Unable to locate element: {"method":"xpath","selector":".//*[@id='pwd']"}
+Command duration or timeout: 30.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.0.108', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: acf67844-3420-4040-a232-a6374a0895b8
+*** Element info: {Using=xpath, value=.//*[@id='pwd']} 
+2016-12-11 10:16:11,164 INFO  [Log] Closing the browser 
+2016-12-11 10:16:12,279 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 10:16:12,279 INFO  [Log] X 
+2016-12-11 10:16:12,280 INFO  [Log] X 
+2016-12-11 10:16:12,280 INFO  [Log] X 
+2016-12-11 10:16:12,280 INFO  [Log] X 
+2016-12-11 10:17:45,313 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 10:17:45,313 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:17:45,313 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:17:45,313 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 10:17:45,313 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:17:45,313 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:17:45,313 INFO  [Log] Opening Browser 
+2016-12-11 10:17:55,307 INFO  [Log] Navigating to URL 
+2016-12-11 10:18:09,888 INFO  [Log] Wait for 5 seconds 
+2016-12-11 10:18:20,102 INFO  [Log] Entering the text in Password 
+2016-12-11 10:18:50,267 ERROR [Log] Not able to Enter Password --- Unable to locate element: {"method":"xpath","selector":".//*[@id='pwd']"}
+Command duration or timeout: 30.13 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.0.108', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 01a34191-72d0-40c1-8b04-2550b532019b
+*** Element info: {Using=xpath, value=.//*[@id='pwd']} 
+2016-12-11 10:18:50,407 INFO  [Log] Closing the browser 
+2016-12-11 10:18:50,662 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 10:18:50,662 INFO  [Log] X 
+2016-12-11 10:18:50,663 INFO  [Log] X 
+2016-12-11 10:18:50,663 INFO  [Log] X 
+2016-12-11 10:18:50,663 INFO  [Log] X 
+2016-12-11 10:21:54,697 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 10:21:54,698 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:21:54,698 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:21:54,698 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 10:21:54,698 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:21:54,698 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:21:54,699 INFO  [Log] Opening Browser 
+2016-12-11 10:22:49,791 INFO  [Log] Navigating to URL 
+2016-12-11 10:23:07,819 INFO  [Log] Wait for 5 seconds 
+2016-12-11 10:23:18,240 INFO  [Log] Clicking on Webelement .//*[@id='account']/a/span[1] 
+2016-12-11 10:23:21,070 INFO  [Log] Entering the text in UserName 
+2016-12-11 10:23:25,109 INFO  [Log] Entering the text in Password 
+2016-12-11 10:23:27,939 INFO  [Log] Clicking on Webelement btn_Login 
+2016-12-11 10:23:58,275 ERROR [Log] Not able to click --- Unable to locate element: {"method":"xpath","selector":"btn_Login"}
+Command duration or timeout: 30.13 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.0.108', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 06bba47b-a310-4964-90f4-a9ba0e36e64f
+*** Element info: {Using=xpath, value=btn_Login} 
+2016-12-11 10:23:58,416 INFO  [Log] Closing the browser 
+2016-12-11 10:23:58,706 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 10:23:58,706 INFO  [Log] X 
+2016-12-11 10:23:58,706 INFO  [Log] X 
+2016-12-11 10:23:58,706 INFO  [Log] X 
+2016-12-11 10:23:58,706 INFO  [Log] X 
+2016-12-11 10:25:43,600 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 10:25:43,600 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:25:43,600 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:25:43,600 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 10:25:43,600 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:25:43,600 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:25:43,600 INFO  [Log] Opening Browser 
+2016-12-11 10:26:12,930 INFO  [Log] Navigating to URL 
+2016-12-11 10:26:59,218 INFO  [Log] Wait for 5 seconds 
+2016-12-11 10:27:09,474 INFO  [Log] Clicking on Webelement .//*[@id='account']/a/span[1] 
+2016-12-11 10:27:10,359 INFO  [Log] Entering the text in UserName 
+2016-12-11 10:27:39,399 INFO  [Log] Entering the text in Password 
+2016-12-11 10:27:40,400 INFO  [Log] Clicking on Webelement .//*[@id='login'] 
+2016-12-11 10:27:41,020 INFO  [Log] Wait for 5 seconds 
+2016-12-11 10:27:51,218 INFO  [Log] Clicking on Webelement btn_LogOut 
+2016-12-11 10:28:22,767 ERROR [Log] Not able to click --- Unable to locate element: {"method":"xpath","selector":"btn_LogOut"}
+Command duration or timeout: 30.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.0.108', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 20bbe258-773c-464a-843e-419cef62f71d
+*** Element info: {Using=xpath, value=btn_LogOut} 
+2016-12-11 10:28:23,048 INFO  [Log] Closing the browser 
+2016-12-11 10:28:23,299 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 10:28:23,299 INFO  [Log] X 
+2016-12-11 10:28:23,299 INFO  [Log] X 
+2016-12-11 10:28:23,299 INFO  [Log] X 
+2016-12-11 10:28:23,300 INFO  [Log] X 
+2016-12-11 10:33:31,149 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 10:33:31,149 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:33:31,149 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:33:31,149 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 10:33:31,149 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:33:31,149 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:33:31,149 INFO  [Log] Opening Browser 
+2016-12-11 10:34:05,935 INFO  [Log] Navigating to URL 
+2016-12-11 10:34:45,856 INFO  [Log] Wait for 5 seconds 
+2016-12-11 10:34:56,112 INFO  [Log] Clicking on Webelement .//*[@id='account']/a/span[1] 
+2016-12-11 10:36:56,443 ERROR [Log] Not able to click --- Unable to locate element: {"method":"xpath","selector":".//*[@id='account']/a/span[1]"}
+Command duration or timeout: 120.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.0.108', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d5dc5300-f8e8-48f1-aa65-0a5e2ddf6968
+*** Element info: {Using=xpath, value=.//*[@id='account']/a/span[1]} 
+2016-12-11 10:36:56,717 INFO  [Log] Closing the browser 
+2016-12-11 10:36:56,928 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 10:36:56,928 INFO  [Log] X 
+2016-12-11 10:36:56,929 INFO  [Log] X 
+2016-12-11 10:36:56,929 INFO  [Log] X 
+2016-12-11 10:36:56,936 INFO  [Log] X 
+2016-12-11 10:37:32,473 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 10:37:32,473 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:37:32,473 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:37:32,473 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 10:37:32,473 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:37:32,473 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:37:32,489 INFO  [Log] Opening Browser 
+2016-12-11 10:37:53,435 INFO  [Log] Navigating to URL 
+2016-12-11 10:38:27,708 INFO  [Log] Wait for 5 seconds 
+2016-12-11 10:38:37,922 INFO  [Log] Clicking on Webelement .//*[@id='account']/a/span[1] 
+2016-12-11 10:40:21,491 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 10:40:21,491 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:40:21,491 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:40:21,491 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 10:40:21,491 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:40:21,491 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:40:21,491 INFO  [Log] Opening Browser 
+2016-12-11 10:40:28,671 ERROR [Log] Not able to click --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.0.108', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 15304d61-ef80-49e2-a437-846915b00cc9 
+2016-12-11 10:40:28,765 INFO  [Log] Closing the browser 
+2016-12-11 10:40:29,796 ERROR [Log] Not able to Close the Browser --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.0.108', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 15304d61-ef80-49e2-a437-846915b00cc9 
+2016-12-11 10:40:29,874 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 10:40:29,874 INFO  [Log] X 
+2016-12-11 10:40:29,874 INFO  [Log] X 
+2016-12-11 10:40:29,874 INFO  [Log] X 
+2016-12-11 10:40:29,874 INFO  [Log] X 
+2016-12-11 10:40:44,787 INFO  [Log] Navigating to URL 
+2016-12-11 10:41:04,835 INFO  [Log] Wait for 5 seconds 
+2016-12-11 10:41:15,221 INFO  [Log] Entering the text in UserName 
+2016-12-11 10:41:15,234 ERROR [Log] Not able to Enter UserName --- Cannot find elements when the XPath expression is null. 
+2016-12-11 10:41:15,628 INFO  [Log] Closing the browser 
+2016-12-11 10:41:25,458 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 10:41:25,458 INFO  [Log] X 
+2016-12-11 10:41:25,458 INFO  [Log] X 
+2016-12-11 10:41:25,458 INFO  [Log] X 
+2016-12-11 10:41:25,458 INFO  [Log] X 
+2016-12-11 10:41:48,855 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-11 10:41:48,855 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:41:48,855 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:41:48,855 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-11 10:41:48,855 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:41:48,855 INFO  [Log] **************************************************************************************** 
+2016-12-11 10:41:48,871 INFO  [Log] Opening Browser 
+2016-12-11 10:42:00,856 INFO  [Log] Navigating to URL 
+2016-12-11 10:49:02,948 INFO  [Log] Wait for 5 seconds 
+2016-12-11 10:49:17,719 INFO  [Log] Entering the text in UserName 
+2016-12-11 10:49:27,173 ERROR [Log] Not able to Enter UserName --- Cannot find elements when the XPath expression is null. 
+2016-12-11 10:49:29,033 INFO  [Log] Closing the browser 
+2016-12-11 10:49:40,462 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-11 10:49:40,478 INFO  [Log] X 
+2016-12-11 10:49:40,478 INFO  [Log] X 
+2016-12-11 10:49:40,478 INFO  [Log] X 
+2016-12-11 10:49:40,478 INFO  [Log] X 
+2016-12-14 12:16:43,420 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-14 12:16:43,480 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:16:43,480 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:16:43,480 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-14 12:16:43,480 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:16:43,480 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:16:43,486 INFO  [Log] Opening Browser 
+2016-12-14 12:17:55,332 INFO  [Log] Not able to open Browser --- Failed to connect to binary FirefoxBinary(C:\Program Files\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+:{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1481467192184,"updateDate":1481467192184,"applyBackgroundUpdates":1,"skinnable":true,"size":22012,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"47.0.2","maxVersion":"47.0.2"}],"targetPlatforms":[],"seen":true}
+1481746648757	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1481746648760	DeferredSave.extensions.json	DEBUG	Save changes
+1481746648763	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1481746648763	addons.xpi-utils	DEBUG	Updating add-on states
+1481746648765	addons.xpi-utils	DEBUG	Writing add-ons list
+1481746648770	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1481746648771	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.0
+1481746648771	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1481746648772	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.2
+1481746648774	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1481746648775	addons.xpi	DEBUG	Calling bootstrap method startup on loop@mozilla.org version 1.3.2
+1481746648823	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\websensehelper@mozilla.org.xpi
+1481746648824	addons.xpi	DEBUG	Calling bootstrap method startup on websensehelper@mozilla.org version 1.0
+1481746648835	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1481746648836	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1481746648836	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1481746648836	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1481746648837	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1481746648838	addons.manager	DEBUG	Starting provider: GMPProvider
+1481746648851	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1481746648851	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1481746648851	addons.manager	DEBUG	Starting provider: PluginProvider
+1481746648852	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1481746648854	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1481746648857	addons.manager	DEBUG	Completed startup sequence
+1481746655467	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1481746655468	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1481746655468	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1481746665630	DeferredSave.extensions.json	DEBUG	Write succeeded
+1481746665631	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+1481746665632	DeferredSave.extensions.json	DEBUG	Starting timer
+1481746665842	DeferredSave.extensions.json	DEBUG	Starting write
+1481746665908	addons.repository	DEBUG	No addons.json found.
+1481746665910	DeferredSave.addons.json	DEBUG	Save changes
+1481746665949	DeferredSave.addons.json	DEBUG	Starting timer
+1481746669851	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1481746669851	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1481746669852	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1481746669859	DeferredSave.addons.json	DEBUG	Starting write
+1481746670164	DeferredSave.extensions.json	DEBUG	Write succeeded
+
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '127.0.0.1', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: driver.version: FirefoxDriver 
+2016-12-14 12:18:00,191 INFO  [Log] Closing the browser 
+2016-12-14 12:18:00,192 ERROR [Log] Not able to Close the Browser --- null 
+2016-12-14 12:18:00,680 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-14 12:18:00,741 INFO  [Log] X 
+2016-12-14 12:18:00,741 INFO  [Log] X 
+2016-12-14 12:18:00,742 INFO  [Log] X 
+2016-12-14 12:18:00,742 INFO  [Log] X 
+2016-12-14 12:20:03,587 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-14 12:20:03,589 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:20:03,589 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:20:03,589 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-14 12:20:03,589 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:20:03,589 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:20:03,591 INFO  [Log] Opening Browser 
+2016-12-14 12:21:48,128 INFO  [Log] Not able to open Browser --- Failed to connect to binary FirefoxBinary(C:\Program Files\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+:{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1481467192184,"updateDate":1481467192184,"applyBackgroundUpdates":1,"skinnable":true,"size":22012,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"47.0.2","maxVersion":"47.0.2"}],"targetPlatforms":[],"seen":true}
+1481746895764	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1481746895769	DeferredSave.extensions.json	DEBUG	Save changes
+1481746895769	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1481746895769	addons.xpi-utils	DEBUG	Updating add-on states
+1481746895771	addons.xpi-utils	DEBUG	Writing add-ons list
+1481746895776	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1481746895777	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.0
+1481746895777	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1481746895779	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.2
+1481746895781	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1481746895783	addons.xpi	DEBUG	Calling bootstrap method startup on loop@mozilla.org version 1.3.2
+1481746895830	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\websensehelper@mozilla.org.xpi
+1481746895831	addons.xpi	DEBUG	Calling bootstrap method startup on websensehelper@mozilla.org version 1.0
+1481746895839	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1481746895840	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1481746895840	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1481746895840	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1481746895841	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1481746895842	addons.manager	DEBUG	Starting provider: GMPProvider
+1481746895867	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1481746895868	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1481746895868	addons.manager	DEBUG	Starting provider: PluginProvider
+1481746895871	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1481746895871	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1481746895872	addons.manager	DEBUG	Completed startup sequence
+1481746900313	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1481746900314	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1481746900314	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1481746903786	DeferredSave.extensions.json	DEBUG	Write succeeded
+1481746903787	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+1481746903788	DeferredSave.extensions.json	DEBUG	Starting timer
+1481746903816	DeferredSave.extensions.json	DEBUG	Starting write
+1481746903845	addons.repository	DEBUG	No addons.json found.
+1481746903846	DeferredSave.addons.json	DEBUG	Save changes
+1481746903851	DeferredSave.addons.json	DEBUG	Starting timer
+1481746905112	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1481746905112	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1481746905113	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1481746905127	DeferredSave.addons.json	DEBUG	Starting write
+1481746905174	DeferredSave.extensions.json	DEBUG	Write succeeded
+
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.0.109', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: driver.version: FirefoxDriver 
+2016-12-14 12:21:53,643 INFO  [Log] Closing the browser 
+2016-12-14 12:21:53,643 ERROR [Log] Not able to Close the Browser --- null 
+2016-12-14 12:21:54,110 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-14 12:21:54,110 INFO  [Log] X 
+2016-12-14 12:21:54,110 INFO  [Log] X 
+2016-12-14 12:21:54,110 INFO  [Log] X 
+2016-12-14 12:21:54,110 INFO  [Log] X 
+2016-12-14 12:23:12,529 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-14 12:23:12,530 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:23:12,530 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:23:12,530 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-14 12:23:12,530 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:23:12,530 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:23:12,531 INFO  [Log] Opening Browser 
+2016-12-14 12:24:17,121 INFO  [Log] Not able to open Browser --- Failed to connect to binary FirefoxBinary(C:\Program Files\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+ndUpdates":1,"bootstrap":true,"skinnable":false,"size":3110,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"47.0.2","maxVersion":"47.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"seen":true}
+1481747041574	addons.xpi	DEBUG	getModTime: Recursive scan of websensehelper@mozilla.org
+1481747041575	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"kxvRfeYhVEIW","location":"app-global","version":"47.0.2","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{"32":"icon.png","48":"icon.png"},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1481467192184,"updateDate":1481467192184,"applyBackgroundUpdates":1,"skinnable":true,"size":22012,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"47.0.2","maxVersion":"47.0.2"}],"targetPlatforms":[],"seen":true}
+1481747041579	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1481747041586	DeferredSave.extensions.json	DEBUG	Save changes
+1481747041586	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1481747041587	addons.xpi-utils	DEBUG	Updating add-on states
+1481747041588	addons.xpi-utils	DEBUG	Writing add-ons list
+1481747041592	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1481747041592	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.0
+1481747041592	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1481747041593	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.2
+1481747041594	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1481747041595	addons.xpi	DEBUG	Calling bootstrap method startup on loop@mozilla.org version 1.3.2
+1481747041778	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\websensehelper@mozilla.org.xpi
+1481747041778	addons.xpi	DEBUG	Calling bootstrap method startup on websensehelper@mozilla.org version 1.0
+1481747041783	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1481747041783	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1481747041783	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1481747041783	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1481747041784	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1481747041784	addons.manager	DEBUG	Starting provider: GMPProvider
+1481747041802	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1481747041802	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1481747041802	addons.manager	DEBUG	Starting provider: PluginProvider
+1481747041803	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1481747041803	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1481747041804	addons.manager	DEBUG	Completed startup sequence
+1481747045864	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1481747045865	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1481747045865	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.0.109', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: driver.version: FirefoxDriver 
+2016-12-14 12:24:21,080 INFO  [Log] Closing the browser 
+2016-12-14 12:24:21,080 ERROR [Log] Not able to Close the Browser --- null 
+2016-12-14 12:24:21,707 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-14 12:24:21,707 INFO  [Log] X 
+2016-12-14 12:24:21,707 INFO  [Log] X 
+2016-12-14 12:24:21,707 INFO  [Log] X 
+2016-12-14 12:24:21,707 INFO  [Log] X 
+2016-12-14 12:26:55,402 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-14 12:26:55,435 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:26:55,435 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:26:55,435 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-14 12:26:55,435 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:26:55,435 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:26:55,499 INFO  [Log] Opening Browser 
+2016-12-14 12:27:48,654 INFO  [Log] Navigating to URL 
+2016-12-14 12:28:18,513 INFO  [Log] Wait for 5 seconds 
+2016-12-14 12:28:28,980 INFO  [Log] Entering the text in UserName 
+2016-12-14 12:28:29,025 ERROR [Log] Not able to Enter UserName --- Cannot find elements when the XPath expression is null. 
+2016-12-14 12:28:29,027 INFO  [Log] Closing the browser 
+2016-12-14 12:28:29,459 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-14 12:28:29,459 INFO  [Log] X 
+2016-12-14 12:28:29,460 INFO  [Log] X 
+2016-12-14 12:28:29,460 INFO  [Log] X 
+2016-12-14 12:28:29,460 INFO  [Log] X 
+2016-12-14 12:35:26,432 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-14 12:35:26,433 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:35:26,433 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:35:26,433 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-14 12:35:26,433 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:35:26,434 INFO  [Log] **************************************************************************************** 
+2016-12-14 12:35:26,435 INFO  [Log] Opening Browser 
+2016-12-14 12:35:54,034 INFO  [Log] Navigating to URL 
+2016-12-14 12:36:11,049 INFO  [Log] Wait for 5 seconds 
+2016-12-14 12:36:31,477 INFO  [Log] Entering the text in UserName 
+2016-12-14 12:36:31,539 ERROR [Log] Not able to Enter UserName --- Cannot find elements when the XPath expression is null. 
+2016-12-14 12:36:31,970 INFO  [Log] Closing the browser 
+2016-12-14 12:37:13,951 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-14 12:37:13,951 INFO  [Log] X 
+2016-12-14 12:37:13,951 INFO  [Log] X 
+2016-12-14 12:37:13,951 INFO  [Log] X 
+2016-12-14 12:37:13,951 INFO  [Log] X 
+2016-12-14 13:16:53,284 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-14 13:16:53,304 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:16:53,304 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:16:53,304 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-14 13:16:53,304 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:16:53,304 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:16:53,324 INFO  [Log] Opening Browser 
+2016-12-14 13:17:48,243 INFO  [Log] Navigating to URL 
+2016-12-14 13:18:06,274 INFO  [Log] Wait for 5 seconds 
+2016-12-14 13:18:06,320 ERROR [Log] Not able to Wait --- Cannot find elements when the XPath expression is null. 
+2016-12-14 13:18:06,745 INFO  [Log] Closing the browser 
+2016-12-14 13:18:10,220 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-14 13:18:10,220 INFO  [Log] X 
+2016-12-14 13:18:10,220 INFO  [Log] X 
+2016-12-14 13:18:10,221 INFO  [Log] X 
+2016-12-14 13:18:10,221 INFO  [Log] X 
+2016-12-14 13:20:39,532 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-14 13:20:39,535 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:20:39,535 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:20:39,535 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-14 13:20:39,535 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:20:39,535 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:20:39,548 INFO  [Log] Opening Browser 
+2016-12-14 13:21:44,373 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-14 13:21:44,373 INFO  [Log] X 
+2016-12-14 13:21:44,374 INFO  [Log] X 
+2016-12-14 13:21:44,374 INFO  [Log] X 
+2016-12-14 13:21:44,374 INFO  [Log] X 
+2016-12-14 13:22:09,341 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-14 13:22:09,342 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:22:09,342 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:22:09,342 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-14 13:22:09,342 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:22:09,342 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:22:09,345 INFO  [Log] Opening Browser 
+2016-12-14 13:22:32,866 INFO  [Log] Navigating to URL 
+2016-12-14 13:22:52,076 INFO  [Log] Wait for 5 seconds 
+2016-12-14 13:23:00,159 INFO  [Log] Entering the text in UserName 
+2016-12-14 13:23:00,160 ERROR [Log] Not able to Enter UserName --- Cannot find elements when the XPath expression is null. 
+2016-12-14 13:23:00,467 INFO  [Log] Closing the browser 
+2016-12-14 13:23:08,031 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-14 13:23:08,031 INFO  [Log] X 
+2016-12-14 13:23:08,031 INFO  [Log] X 
+2016-12-14 13:23:08,031 INFO  [Log] X 
+2016-12-14 13:23:08,031 INFO  [Log] X 
+2016-12-14 13:23:34,218 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-14 13:23:34,219 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:23:34,219 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:23:34,219 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-14 13:23:34,220 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:23:34,220 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:23:34,221 INFO  [Log] Opening Browser 
+2016-12-14 13:23:50,074 INFO  [Log] Navigating to URL 
+2016-12-14 13:24:05,902 INFO  [Log] Wait for 5 seconds 
+2016-12-14 13:25:56,087 INFO  [Log] Entering the text in UserName 
+2016-12-14 13:25:56,101 ERROR [Log] Not able to Enter UserName --- Cannot find elements when the XPath expression is null. 
+2016-12-14 13:25:56,644 INFO  [Log] Closing the browser 
+2016-12-14 13:26:02,684 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-14 13:26:02,684 INFO  [Log] X 
+2016-12-14 13:26:02,684 INFO  [Log] X 
+2016-12-14 13:26:02,684 INFO  [Log] X 
+2016-12-14 13:26:02,684 INFO  [Log] X 
+2016-12-14 13:30:03,790 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-14 13:30:03,791 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:30:03,791 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:30:03,791 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-14 13:30:03,791 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:30:03,791 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:30:03,796 INFO  [Log] Opening Browser 
+2016-12-14 13:30:58,288 INFO  [Log] Navigating to URL 
+2016-12-14 13:31:09,648 INFO  [Log] Wait for 5 seconds 
+2016-12-14 13:31:14,400 INFO  [Log] Entering the text in UserName 
+2016-12-14 13:31:14,400 ERROR [Log] Not able to Enter UserName --- Cannot find elements when the XPath expression is null. 
+2016-12-14 13:31:14,790 INFO  [Log] Closing the browser 
+2016-12-14 13:31:16,679 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-14 13:31:16,679 INFO  [Log] X 
+2016-12-14 13:31:16,716 INFO  [Log] X 
+2016-12-14 13:31:16,716 INFO  [Log] X 
+2016-12-14 13:31:16,716 INFO  [Log] X 
+2016-12-14 13:35:24,610 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-14 13:35:24,611 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:35:24,612 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:35:24,612 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-14 13:35:24,612 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:35:24,612 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:35:24,613 INFO  [Log] Opening Browser 
+2016-12-14 13:35:58,864 INFO  [Log] Navigating to URL 
+2016-12-14 13:36:10,688 INFO  [Log] Wait for 5 seconds 
+2016-12-14 13:36:16,434 INFO  [Log] Entering the text in UserName 
+2016-12-14 13:36:16,434 ERROR [Log] Not able to Enter UserName --- Cannot find elements when the XPath expression is null. 
+2016-12-14 13:36:16,817 INFO  [Log] Closing the browser 
+2016-12-14 13:36:18,272 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-14 13:36:18,273 INFO  [Log] X 
+2016-12-14 13:36:18,273 INFO  [Log] X 
+2016-12-14 13:36:18,274 INFO  [Log] X 
+2016-12-14 13:36:18,274 INFO  [Log] X 
+2016-12-14 13:38:17,043 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-14 13:38:17,043 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:38:17,044 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:38:17,044 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-14 13:38:17,044 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:38:17,044 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:38:17,045 INFO  [Log] Opening Browser 
+2016-12-14 13:38:39,782 INFO  [Log] Navigating to URL 
+2016-12-14 13:38:54,357 INFO  [Log] Wait for 5 seconds 
+2016-12-14 13:38:58,684 INFO  [Log] Entering the text in UserName 
+2016-12-14 13:39:01,287 INFO  [Log] Entering the text in Password 
+2016-12-14 13:39:01,289 ERROR [Log] Not able to Enter Password --- Cannot find elements when the XPath expression is null. 
+2016-12-14 13:39:01,704 INFO  [Log] Closing the browser 
+2016-12-14 13:39:02,502 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-14 13:39:02,503 INFO  [Log] X 
+2016-12-14 13:39:02,503 INFO  [Log] X 
+2016-12-14 13:39:02,503 INFO  [Log] X 
+2016-12-14 13:39:02,503 INFO  [Log] X 
+2016-12-14 13:45:44,174 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-14 13:45:44,175 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:45:44,175 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:45:44,175 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-14 13:45:44,175 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:45:44,175 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:45:44,176 INFO  [Log] Opening Browser 
+2016-12-14 13:46:17,683 INFO  [Log] Navigating to URL 
+2016-12-14 13:46:18,953 INFO  [Log] Wait for 5 seconds 
+2016-12-14 13:48:14,238 INFO  [Log] Entering the text in UserName 
+2016-12-14 13:48:21,902 INFO  [Log] Entering the text in Password 
+2016-12-14 13:48:22,925 INFO  [Log] Clicking on Webelement btn_LogIn 
+2016-12-14 13:50:23,480 ERROR [Log] Not able to click --- Unable to locate element: {"method":"xpath","selector":"btn_LogIn"}
+Command duration or timeout: 120.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.43.241', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0cccd9c3-1864-4988-95bf-d03e001671e6
+*** Element info: {Using=xpath, value=btn_LogIn} 
+2016-12-14 13:50:23,650 INFO  [Log] Closing the browser 
+2016-12-14 13:50:23,928 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-14 13:50:23,928 INFO  [Log] X 
+2016-12-14 13:50:23,928 INFO  [Log] X 
+2016-12-14 13:50:23,928 INFO  [Log] X 
+2016-12-14 13:50:23,928 INFO  [Log] X 
+2016-12-14 13:54:56,438 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-14 13:54:56,448 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:54:56,448 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:54:56,449 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-14 13:54:56,449 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:54:56,449 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:54:56,450 INFO  [Log] Opening Browser 
+2016-12-14 13:55:37,555 INFO  [Log] Navigating to URL 
+2016-12-14 13:55:51,013 INFO  [Log] Wait for 5 seconds 
+2016-12-14 13:55:54,821 INFO  [Log] Entering the text in UserName 
+2016-12-14 13:55:59,082 INFO  [Log] Entering the text in Password 
+2016-12-14 13:56:00,103 INFO  [Log] Clicking on Webelement btn_LogIn 
+2016-12-14 13:58:00,358 ERROR [Log] Not able to click --- Unable to locate element: {"method":"xpath","selector":"btn_LogIn"}
+Command duration or timeout: 120.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.43.241', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 32dcde16-1981-467d-a4a3-eb9b441dae71
+*** Element info: {Using=xpath, value=btn_LogIn} 
+2016-12-14 13:58:00,588 INFO  [Log] Closing the browser 
+2016-12-14 13:58:00,836 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-14 13:58:00,836 INFO  [Log] X 
+2016-12-14 13:58:00,836 INFO  [Log] X 
+2016-12-14 13:58:00,836 INFO  [Log] X 
+2016-12-14 13:58:00,836 INFO  [Log] X 
+2016-12-14 13:59:31,189 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-14 13:59:31,191 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:59:31,192 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:59:31,192 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-14 13:59:31,192 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:59:31,192 INFO  [Log] **************************************************************************************** 
+2016-12-14 13:59:31,194 INFO  [Log] Opening Browser 
+2016-12-14 14:00:05,785 INFO  [Log] Navigating to URL 
+2016-12-14 14:00:24,609 INFO  [Log] Wait for 5 seconds 
+2016-12-14 14:00:52,427 INFO  [Log] Entering the text in UserName 
+2016-12-14 14:00:56,568 INFO  [Log] Entering the text in Password 
+2016-12-14 14:01:00,097 INFO  [Log] Clicking on Webelement btn_LogIn 
+2016-12-14 14:01:00,879 INFO  [Log] Wait for 5 seconds 
+2016-12-14 14:01:01,243 INFO  [Log] Clicking on Webelement btn_LogOut 
+2016-12-14 14:01:30,551 ERROR [Log] Not able to click --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.43.241', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b9c429a6-bab9-4f80-a111-8a5716cb7a66 
+2016-12-14 14:01:30,725 INFO  [Log] Closing the browser 
+2016-12-14 14:01:31,736 ERROR [Log] Not able to Close the Browser --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.43.241', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b9c429a6-bab9-4f80-a111-8a5716cb7a66 
+2016-12-14 14:01:31,875 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-14 14:01:31,875 INFO  [Log] X 
+2016-12-14 14:01:31,875 INFO  [Log] X 
+2016-12-14 14:01:31,875 INFO  [Log] X 
+2016-12-14 14:01:31,931 INFO  [Log] X 
+2016-12-16 08:07:24,008 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-16 08:07:24,018 INFO  [Log] **************************************************************************************** 
+2016-12-16 08:07:24,019 INFO  [Log] **************************************************************************************** 
+2016-12-16 08:07:24,019 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-16 08:07:24,019 INFO  [Log] **************************************************************************************** 
+2016-12-16 08:07:24,019 INFO  [Log] **************************************************************************************** 
+2016-12-16 08:07:24,020 INFO  [Log] Opening Browser 
+2016-12-16 08:08:36,173 INFO  [Log] Not able to open Browser --- Failed to connect to binary FirefoxBinary(C:\Program Files\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+ndUpdates":1,"bootstrap":true,"skinnable":false,"size":3110,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"47.0.2","maxVersion":"47.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"seen":true}
+1481904495163	addons.xpi	DEBUG	getModTime: Recursive scan of websensehelper@mozilla.org
+1481904495164	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"0Ohc_vPH0slF","location":"app-global","version":"47.0.2","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{"32":"icon.png","48":"icon.png"},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1481467192184,"updateDate":1481467192184,"applyBackgroundUpdates":1,"skinnable":true,"size":22012,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"47.0.2","maxVersion":"47.0.2"}],"targetPlatforms":[],"seen":true}
+1481904495164	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1481904495166	DeferredSave.extensions.json	DEBUG	Save changes
+1481904495167	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1481904495167	addons.xpi-utils	DEBUG	Updating add-on states
+1481904495168	addons.xpi-utils	DEBUG	Writing add-ons list
+1481904495172	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1481904495173	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.0
+1481904495173	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1481904495175	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.2
+1481904495183	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1481904495185	addons.xpi	DEBUG	Calling bootstrap method startup on loop@mozilla.org version 1.3.2
+1481904495232	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\websensehelper@mozilla.org.xpi
+1481904495233	addons.xpi	DEBUG	Calling bootstrap method startup on websensehelper@mozilla.org version 1.0
+1481904495244	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1481904495245	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1481904495245	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1481904495245	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1481904495246	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1481904495247	addons.manager	DEBUG	Starting provider: GMPProvider
+1481904495328	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1481904495329	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1481904495329	addons.manager	DEBUG	Starting provider: PluginProvider
+1481904495329	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1481904495330	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1481904495331	addons.manager	DEBUG	Completed startup sequence
+1481904506728	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1481904506728	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1481904506729	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.2.77', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: driver.version: FirefoxDriver 
+2016-12-16 08:08:41,446 INFO  [Log] Closing the browser 
+2016-12-16 08:08:41,446 ERROR [Log] Not able to Close the Browser --- null 
+2016-12-16 08:08:41,831 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-16 08:08:41,831 INFO  [Log] X 
+2016-12-16 08:08:41,831 INFO  [Log] X 
+2016-12-16 08:08:41,831 INFO  [Log] X 
+2016-12-16 08:08:41,831 INFO  [Log] X 
+2016-12-16 08:10:18,999 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-16 08:10:19,036 INFO  [Log] **************************************************************************************** 
+2016-12-16 08:10:19,036 INFO  [Log] **************************************************************************************** 
+2016-12-16 08:10:19,036 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-16 08:10:19,037 INFO  [Log] **************************************************************************************** 
+2016-12-16 08:10:19,037 INFO  [Log] **************************************************************************************** 
+2016-12-16 08:10:19,043 INFO  [Log] Opening Browser 
+2016-12-16 08:11:10,415 INFO  [Log] Navigating to URL 
+2016-12-16 08:11:23,118 INFO  [Log] Wait for 5 seconds 
+2016-12-16 08:11:25,892 INFO  [Log] Entering the text in UserName 
+2016-12-16 08:11:28,121 INFO  [Log] Entering the text in Password 
+2016-12-16 08:11:28,573 INFO  [Log] Clicking on Webelement btn_LogIn 
+2016-12-16 08:11:29,149 INFO  [Log] Wait for 5 seconds 
+2016-12-16 08:11:29,400 INFO  [Log] Clicking on Webelement btn_LogOut 
+2016-12-16 08:12:25,382 ERROR [Log] Not able to click --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.2.77', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 098cb48d-d2d4-48a4-b9b1-032b49007704 
+2016-12-16 08:12:25,680 INFO  [Log] Closing the browser 
+2016-12-16 08:12:26,692 ERROR [Log] Not able to Close the Browser --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.2.77', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 098cb48d-d2d4-48a4-b9b1-032b49007704 
+2016-12-16 08:12:26,792 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-16 08:12:26,792 INFO  [Log] X 
+2016-12-16 08:12:26,792 INFO  [Log] X 
+2016-12-16 08:12:26,792 INFO  [Log] X 
+2016-12-16 08:12:26,793 INFO  [Log] X 
+2016-12-16 08:13:29,392 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-12-16 08:13:29,394 INFO  [Log] **************************************************************************************** 
+2016-12-16 08:13:29,394 INFO  [Log] **************************************************************************************** 
+2016-12-16 08:13:29,394 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-16 08:13:29,394 INFO  [Log] **************************************************************************************** 
+2016-12-16 08:13:29,394 INFO  [Log] **************************************************************************************** 
+2016-12-16 08:13:29,400 INFO  [Log] Opening Browser 
+2016-12-16 08:13:50,020 INFO  [Log] Navigating to URL 
+2016-12-16 08:13:58,176 INFO  [Log] Wait for 5 seconds 
+2016-12-16 08:14:01,020 INFO  [Log] Entering the text in UserName 
+2016-12-16 08:14:03,510 INFO  [Log] Entering the text in Password 
+2016-12-16 08:14:03,954 INFO  [Log] Clicking on Webelement btn_LogIn 
+2016-12-16 08:14:04,531 INFO  [Log] Wait for 5 seconds 
+2016-12-16 08:14:04,750 INFO  [Log] Clicking on Webelement btn_LogOut 
+2016-12-16 08:14:59,527 ERROR [Log] Not able to click --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.2.77', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4885a68b-7c25-4cdb-8eec-8539da824ef3 
+2016-12-16 08:14:59,753 INFO  [Log] Closing the browser 
+2016-12-16 08:15:00,851 ERROR [Log] Not able to Close the Browser --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'kunchamlokesh', ip: '192.168.2.77', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_101'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4885a68b-7c25-4cdb-8eec-8539da824ef3 
+2016-12-16 08:15:01,120 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-16 08:15:01,120 INFO  [Log] X 
+2016-12-16 08:15:01,120 INFO  [Log] X 
+2016-12-16 08:15:01,120 INFO  [Log] X 
+2016-12-16 08:15:01,121 INFO  [Log] X 
